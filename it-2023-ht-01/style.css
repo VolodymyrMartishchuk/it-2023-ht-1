@@ -1,0 +1,220 @@
+.container {
+    border-radius: 2%;
+
+    max-width: 650px;
+
+    min-height: 1420px;
+
+    margin: 0 auto;
+
+    background-color: #f6f6f6;
+
+}
+
+p1{
+    color:rgb(67, 120, 255);
+
+    font-weight: bold;
+
+    font-size: 15px;
+
+    font-family: consolas;
+}
+
+p2{
+    color:rgb(108, 108, 108);
+
+    font-size: 15px;
+
+    font-family: arial;
+
+    padding-left: 60px;
+
+    display: flex;
+}
+
+.disk {
+
+    display: flex;
+
+    align-items: center;
+
+    padding-top: 70px;
+
+    padding-left: 80px;
+}
+
+.globus {
+
+    padding-top: 40px;
+
+    padding-left: 200px;
+}
+
+h1 {
+    font-size: 50px;
+
+    font-weight: bold;
+
+    padding-top: 40px;
+
+    padding-left: 80px;
+}
+
+.buttonlearnmore {
+    border-radius: 10px;
+    
+    background-color:#1890FF;
+    
+    font-size: 25px;
+
+    margin: 40px 0px 0px 80px;
+}
+
+.explore {
+    border-radius: 10px;
+    
+    background-color:#1890FF;
+    
+    font-size: 25px;
+
+    margin: 80px 0px 0px 130px;
+}
+
+.together {
+    position: absolute;
+}
+
+.mid{
+    padding-top: 100px;
+}
+
+.firewall {
+    display: flex;
+}
+
+.icon1 {
+    position: absolute;
+    
+    align-items: center;
+    
+    display: flex;
+}
+
+.text1{
+    padding-top: 20px;
+
+    padding-left: 230px;
+
+    width: 400px;
+
+    font-family:arial;
+}
+
+.arrow1 {
+    position: absolute;
+
+    padding-left: 500px;
+
+    padding-top: 30px;
+}
+
+.data {
+    display: flex;
+}
+
+.icon2 {
+    position: absolute;
+    
+    align-items: center;
+    
+    display: flex;
+}
+
+.text2{
+    padding-top: 55px;
+
+    padding-left: 230px;
+
+    width: 400px;
+
+    font-family:arial;
+}
+
+.arrow2 {
+    position: absolute;
+
+    padding-left: 500px;
+
+    padding-top: 60px;
+}
+
+.encryption {
+    display: flex;
+}
+
+.icon3 {
+    position: absolute;
+    
+    align-items: center;
+    
+    display: flex;
+}
+
+.text3{
+    padding-top: 55px;
+
+    padding-left: 230px;
+
+    width: 400px;
+
+    font-family:arial;
+}
+
+.arrow3 {
+    position: absolute;
+
+    padding-left: 500px;
+
+    padding-top: 65px;
+}
+
+.protection {
+    display: flex;
+}
+
+.icon4 {
+    position: absolute;
+    
+    align-items: center;
+    
+    display: flex;
+}
+
+.text4{
+    padding-top: 55px;
+
+    padding-left: 230px;
+
+    width: 400px;
+
+    font-family:arial;
+}
+
+.arrow4 {
+    position: absolute;
+
+    padding-left: 500px;
+
+    padding-top: 65px;
+}
+
+.down {
+    text-align:center;
+
+    color: #cdcdcd;
+}
+
+.social {
+    margin-top: 40px;
+}
